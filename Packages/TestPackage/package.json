@@ -1,0 +1,12 @@
+{
+    "name": "com.pp.testpackage",
+    "displayName": "TestPackage",
+    "version": "0.0.1",
+    "unity": "2021.3",
+    "unityRelease": "19f1c1",
+    "description": "This is Test Package",
+    "keywords": ["Test","Package"],
+    "author": "PP",
+    "dependencies":[],
+    "samples": []
+}
